@@ -24,9 +24,12 @@ Microsoft Power BI
 Power Query
 
 DAX
+
 ---
 
 Data Modeling
+------------
+
 📌 Key KPIs
 
 Total Orders
@@ -54,6 +57,7 @@ Executive Overview
 Orders & Customer Analysis
 
 Product & Reorder Insights
----
+
+-------------------------
 
 ⭐ This project was created as part of my Data Analytics portfolio to demonstrate Power BI, DAX, and data visualization skills.
