@@ -50,6 +50,16 @@ Reorder Rate %
 Instacart Online Grocery Shopping Dataset -https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis
 
 ---
+
+## Power BI File
+----------------
+
+The Power BI (.pbix) file is available here:
+
+[https://drive.google.com/your-link](https://drive.google.com/file/d/1GXKL8gU6VjJJvcqml9W4bvLxdaV7FUQ7/view?usp=sharing)
+
+-----------------
+
 📷 Dashboard Pages
 -------------------
 Executive Overview
