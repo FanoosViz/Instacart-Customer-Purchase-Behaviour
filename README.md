@@ -18,18 +18,27 @@ This project is an interactive Power BI dashboard built using the Instacart Groc
 
 ---
 🛠️ Tools Used
+---------------
 Microsoft Power BI
+
 Power Query
+
 DAX
 ---
 
 Data Modeling
 📌 Key KPIs
+
 Total Orders
+
 Total Customers
+
 Total Products
+
 Total Items Ordered
+
 Reordered Items
+
 Reorder Rate %
 
 ---
@@ -39,8 +48,11 @@ Instacart Online Grocery Shopping Dataset -https://www.kaggle.com/datasets/pspar
 
 ---
 📷 Dashboard Pages
+-------------------
 Executive Overview
+
 Orders & Customer Analysis
+
 Product & Reorder Insights
 ---
 
