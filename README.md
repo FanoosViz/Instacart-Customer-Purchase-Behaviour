@@ -1,10 +1,12 @@
 # Instacart-Customer-Purchase-Behaviour
 nteractive Power BI dashboard analyzing Instacart grocery orders, customer purchasing behavior, reorder trends, and product performance using DAX and data visualization.
-🛒 Instacart Grocery Analysis Dashboard
 
+🛒 Instacart Grocery Analysis Dashboard
+----------------------------------------
 This project is an interactive Power BI dashboard built using the Instacart Grocery Dataset. The dashboard provides insights into customer purchasing behavior, product performance, reorder trends, and ordering patterns.
 
 🚀 Features
+------------
 📊 Executive Overview Dashboard
 🛍️ Product & Department Analysis
 🔄 Reorder Rate Analysis
